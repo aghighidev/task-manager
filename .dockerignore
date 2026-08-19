@@ -1,0 +1,7 @@
+.git
+*.temp
+/test/
+*.spec.js
+*.log
+.env
+
